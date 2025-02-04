@@ -1,0 +1,1 @@
+import{aw as e,A as t,z as a}from"./chunks/framework.CPxOa8kE.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/changelog/index.md","filePath":"zh-CN/changelog/index.md"}'),n={name:"zh-CN/changelog/index.md"};function o(r,c,s,d,i,p){return a(),t("div")}const _=e(n,[["render",o]]);export{l as __pageData,_ as default};
