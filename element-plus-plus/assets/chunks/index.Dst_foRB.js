@@ -1,0 +1,1 @@
+import{w as a}from"./install.CDck28KX.js";import{y as n}from"./framework.CPxOa8kE.js";const o=n({name:"EppAlias",render(){var t,s;return(s=(t=this.$slots).default)==null?void 0:s.call(t,this.$attrs)}}),i=a(o);export{i as E};
